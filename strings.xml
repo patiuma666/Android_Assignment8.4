@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <array name="versions">
+        <item>gingerbread</item>
+        <item>honeycomb</item>
+        <item>icecreamsandwich</item>
+        <item>jellybean</item>
+        <item>kitkat</item>
+        <item>lolipop</item>
+    </array>
+</resources>
